@@ -20,7 +20,7 @@ All QoL Mods that require the Space Age DLC can be found in [Factorio QoL Age: S
 * [Even Distribution Lite](https://mods.factorio.com/mod/EvenDistributionLite) by [raiguard](https://mods.factorio.com/user/raiguard)
 * [Expand Tooltip](https://mods.factorio.com/mod/expandtooltip) by [Honktown](https://mods.factorio.com/user/Honktown)
 * [Explosive Excavation](https://mods.factorio.com/mod/Explosive%20Excavation) by [GotLag](https://mods.factorio.com/user/GotLag)
-* [Factorio Qol Age: Resorted Items](https://mods.factorio.com/mod/factorio_qol_age_resorted_items)
+* [Factorio Qol Age: Resorted Items](https://mods.factorio.com/mod/factorio_qol_age_resorted_items) by [Ingo_Igel](https://mods.factorio.com/user/Ingo_Igel)
 * [Factory Planner](https://mods.factorio.com/mod/factoryplanner) by [Therenas](https://mods.factorio.com/user/Therenas)
 * [Filter Helper](https://mods.factorio.com/mod/FilterHelper) by [Mudscape](https://mods.factorio.com/user/Mudscape)
 * [Inventory Repair](https://mods.factorio.com/mod/inventory-repair) by [calcwizard](https://mods.factorio.com/user/calcwizard)
